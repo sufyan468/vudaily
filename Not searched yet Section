@@ -1,0 +1,6 @@
+<div class="container-fluid border py-5 rounded-3 mb-2">
+  <div class="row py-3">
+      <img src="/assets/new_ui/Search-Illustration.svg" class="m-auto"  alt="34" style="height:150px; width:150px;" />
+    <p class="text-center">Please search tutor above to see the results.</p>
+  </div>
+</div>
